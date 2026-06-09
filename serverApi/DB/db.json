@@ -1,0 +1,119 @@
+{
+  "funcionario": [
+    {
+      "id": "1",
+      "nome": "Zezin da Silva",
+      "login": "ze",
+      "senha": "123",
+      "ROLE": "ADMIN",
+      "horaEntrada": "12:00",
+      "horaSaida": "22:00",
+      "cargo": "IygWzWL6tQg"
+    },
+    {
+      "matricula": 2019220010,
+      "nome": "PEdrin Maria",
+      "login": "pe",
+      "senha": "123",
+      "ROLE": "FUNCIONARIO",
+      "horaEntrada": "12:00",
+      "horaSaida": "22:00",
+      "id": "2",
+      "cargo": "cVTJKXhkQAs"
+    },
+    {
+      "id": "5sVtdCQ0nWM",
+      "nome": "Jefin Perreira",
+      "login": "je",
+      "senha": "123",
+      "ROLE": "FUNCIONARIO",
+      "horaEntrada": "12:00",
+      "horaSaida": "22:00",
+      "cargo": "LVa3lW7Gcgw"
+    },
+    {
+      "id": "WiVH4-RmNN4",
+      "nome": "Marquin Perreira",
+      "login": "ma",
+      "senha": "123",
+      "ROLE": "FUNCIONARIO",
+      "horaEntrada": "12:00",
+      "horaSaida": "22:00",
+      "cargo": "LVa3lW7Gcgw"
+    }
+  ],
+  "cargo": [
+    {
+      "nome": "Desenvolvedor",
+      "id": "LVa3lW7Gcgw"
+    },
+    {
+      "nome": "Tester",
+      "id": "7VScJO1xpNg"
+    },
+    {
+      "nome": "Analista",
+      "id": "_QLBfRBaUyw"
+    },
+    {
+      "nome": "Gestor de Dados",
+      "id": "gvUqz10RhOw"
+    },
+    {
+      "nome": "Gestor de Projeto",
+      "id": "IygWzWL6tQg"
+    },
+    {
+      "nome": "Scrum Master",
+      "id": "x2suIcfJluo"
+    },
+    {
+      "nome": "Tech Líder",
+      "id": "DeK_cEK2L88"
+    },
+    {
+      "nome": "Estagiário",
+      "id": "cVTJKXhkQAs"
+    }
+  ],
+  "ponto": [
+    {
+      "idUser": "1",
+      "dataEntrada": "2026-05-14T00:18:13.704Z",
+      "dataSaida": "2026-05-14T00:28:13.704Z",
+      "id": "LZM8fkS_Pg8"
+    },
+    {
+      "idUser": "1",
+      "dataEntrada": "2026-05-14T00:29:43.098Z",
+      "dataSaida": "2026-05-14T00:39:43.098Z",
+      "id": "OUMxiNYDr1Y"
+    },
+    {
+      "idUser": "1",
+      "dataEntrada": "2026-05-14T00:34:39.226Z",
+      "dataSaida": "2026-05-14T00:44:39.226Z",
+      "id": "iY-dxbtgRAs"
+    },
+    {
+      "idUser": "1",
+      "dataEntrada": "2026-05-14T00:41:06.902Z",
+      "dataSaida": "2026-05-14T00:51:06.902Z",
+      "id": "vTomMDQWVkQ"
+    },
+    {
+      "idUser": "1",
+      "dataEntrada": "2026-05-14T00:46:23.445Z",
+      "dataSaida": "2026-05-14T00:51:40.007Z",
+      "id": "yzu6VqPGJtw"
+    },
+    {
+      "idUser": "2",
+      "dataEntrada": "2026-05-14T00:52:56.182Z",
+      "dataSaida": "2026-05-14T00:53:01.860Z",
+      "id": "_tXrdw69h2g"
+    }
+  ],
+  "justificativa": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
